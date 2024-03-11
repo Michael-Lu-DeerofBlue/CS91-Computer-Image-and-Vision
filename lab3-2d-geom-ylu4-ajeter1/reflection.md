@@ -1,0 +1,2 @@
+Abdul, Michael ajeter1@swarthmore.edu,ylu4@swartmore.edu 2/18/24 CS 91R Lab 3 Collaboration We worked together on this assignment with help from the p5js website references
+For this week's lab, we accomplished a variety of 2D geometric transformations in p5, but more notably, we achieved a deeper understanding of the inner workings of these types of transformations especially in regards to matrix multiplication. It was a bit tricky at first, but we thought many of the different functions' implementation were pretty straightforward once we got the ball rolling. 
